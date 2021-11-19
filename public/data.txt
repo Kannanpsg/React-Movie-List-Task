@@ -1,0 +1,57 @@
+
+[
+{
+    id:"100",
+    name:"Narnia",
+poster:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrDZfHuwu1bpLKr5CfC-_sN3OpYLsF_EQIyw&usqp=CAU",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+{
+    id:"101",
+  name:"bahubali",
+poster:"https://im.rediff.com/movies/2015/jul/10bahubali.jpg?w=670&h=900",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+{
+
+    id:"102",
+name:"2.0",
+poster:"https://i.ytimg.com/vi/_qOl_7qfPOM/maxresdefault.jpg",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+{
+
+    id:"103",
+name:"Free Guy",
+poster:"https://lumiere-a.akamaihd.net/v1/images/hb_20cs_freeguy_mobile_21435_4db552ec.jpeg",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+
+{
+    id:"104",
+    name:"Avengers",
+poster:"https://image.api.playstation.com/vulcan/img/cfn/11307mfB_C9XcqTOrc2UYKVwNS-Im4Ncsv0WDC50BU-j1hyUXTfzKxgxKSMz_mbBtVoQmuvDLHzPclp__egUa2LmmHoD6uEO.png",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+{
+
+    id:"105",
+name:"Iron Man",
+poster:"https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/4432/674432-v",
+rating: 8.6,
+summary: `Nice Movie`,
+},
+{
+
+    id:"106",
+name:"Ratatouille",
+poster:"https://lumiere-a.akamaihd.net/v1/images/p_ratatouille_19736_0814231f.jpeg",
+rating: 8.6,
+summary: `Nice Movie`,
+}
+];

@@ -2,6 +2,7 @@ import {useState} from "react";
 import IconButton from '@mui/material/IconButton';
 import Stack from '@mui/material/Stack';
 import DeleteIcon from '@mui/icons-material/Delete';
+import EditIcon from '@mui/icons-material/Edit';
 
 function Counter()
 {
@@ -15,6 +16,9 @@ function Counter()
 <div className = "counter-container">
 <IconButton aria-label="delete">
   <DeleteIcon />
+</IconButton>
+<IconButton aria-label="Edit">
+  <EditIcon />
 </IconButton>
 <button className="Likes-Dislikes" onClick={() => setLike( like+1 )}>
 👍{like}
